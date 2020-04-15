@@ -28,7 +28,7 @@ export const COMMENTS = [
 		courseId: 1,
 		rating: 4,
 		comment: 'Ultimate, Reaching for the stars!',
-		author: 'Lydia mensah',
+		author: 'Start Course',
 		date: '2020-12-02T17:57:28.556094Z',
 	},
 	{
@@ -44,7 +44,7 @@ export const COMMENTS = [
 		courseId: 2,
 		rating: 5,
 		comment: 'Imagine getting all codes right, living in paradise!',
-		author: 'John Lemon',
+		author: 'Start Course',
 		date: '2018-10-16T17:57:28.556094Z',
 	},
 	{
@@ -60,7 +60,7 @@ export const COMMENTS = [
 		courseId: 3,
 		rating: 3,
 		comment: 'Code it, just code it!',
-		author: 'Michael Oti',
+		author: 'Start Course',
 		date: '2018-02-13T17:57:28.556094Z',
 	},
 	{
@@ -76,7 +76,7 @@ export const COMMENTS = [
 		courseId: 4,
 		rating: 2,
 		comment: "It worked, we're gonna party!",
-		author: 'Ben Cent',
+		author: 'Start Course',
 		date: '2016-12-02T17:57:28.556094Z',
 	},
 	{
@@ -92,7 +92,7 @@ export const COMMENTS = [
 		courseId: 5,
 		rating: 4,
 		comment: 'Sends anyone to heaven, I wish I was a programmer!',
-		author: 'Paul McVites',
+		author: 'Start Course',
 		date: '2018-09-05T17:57:28.556094Z',
 	},
 
@@ -109,7 +109,7 @@ export const COMMENTS = [
 		courseId: 6,
 		rating: 4,
 		comment: 'Ultimate, Reaching for the stars!',
-		author: 'Adjoa Berry',
+		author: 'Start Course',
 		date: '2013-12-02T17:57:28.556094Z',
 	},
 	{
@@ -125,7 +125,7 @@ export const COMMENTS = [
 		courseId: 8,
 		rating: 5,
 		comment: 'Imagine all the eatables, living in conFusion!',
-		author: 'John Lemon',
+		author: 'Start Course',
 		date: '2019-10-16T17:57:28.556094Z',
 	},
 ];

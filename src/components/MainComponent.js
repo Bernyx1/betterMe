@@ -10,6 +10,7 @@ import Contact from './ContactComponent';
 import { PROMOTIONS } from '../shared/promotions';
 import { LEADERS } from '../shared/leaders';
 import { COMMENTS } from '../shared/comments';
+import About from './About';
 
 class Main extends Component {
 	constructor(props) {
@@ -53,6 +54,7 @@ class Main extends Component {
 					<Route exact path='/menu' component={() => <Display courses={this.state.courses} />} />
 					<Route path='/menu/:courseId' component={CourseWithId} />
 					<Route exact path='/contactus' component={Contact} />
+					<Route exact path='/aboutus' component={About} />
 					<Redirect to='/home' />
 				</Switch>
 
