@@ -27,16 +27,16 @@ export const LEADERS = [
 		abbr: 'CTO',
 		featured: false,
 		description:
-			'Blessed with the most discerning gustatory sense,  our CTO, personally ensures that every work that we serve meets her exacting tastes. Our clients dread the tongue lashing that ensues if their service  does not meet her exacting standards. She lives by her motto, You click only if you survive my lick.',
+			'Our chief technology officer (CTO), leads Divs long-term research program, an ongoing series of innovation initiatives that explore emerging technologies, assess their application to the company’s business and recommend new strategies and solutions. She is also responsible for the company’s industry standards engagements, university collaborations and technical community programs.',
 	},
 	{
 		id: 3,
 		name: 'Bernice Owusu',
 		image: '/asserts/images/ben.jpg',
-		designation: 'Senior Software Engineering',
+		designation: 'Senior Software Engineerer',
 		abbr: 'SSE',
 		featured: false,
 		description:
-			'Award winning three-star Michelin Developer with wide International experience having worked closely with whos-who in the tech world, she specializes in creating the best products I. She says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!',
+			'Award winning three-star Michelin Developer with wide International experience having worked closely with whos-who in the tech world, she specializes in creating the best products . She says, when you do not create things, you become defined by your tastes rather than ability. Your tastes only narrow and exclude people. So create.',
 	},
 ];
